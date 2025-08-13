@@ -31,4 +31,5 @@ Built with **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and integrate
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/interview-ai.git
-cd interview-ai
+
+
